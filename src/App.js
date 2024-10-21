@@ -5,6 +5,7 @@ import Home from './components/Home'
 import { BrowserRouter as Router,Route,Routes } from 'react-router-dom';
 import Create from './components/Create';
 import BlogDetails from './components/BlogDetails';
+import NotFound from './components/NotFound';
 
 function App() {
   const title="Hi";
@@ -17,6 +18,7 @@ function App() {
         <Route exact path="/"  element ={<Home />} />
         <Route exact path="/create" element={<Create />} />
         <Route exact path="/blog/:id" element={<BlogDetails />} />    {/* here id is dynamic and change everytime */}
+        <Route exact path="*"  element ={<NotFound />} />
       </Routes>
     </div>
     </Router>
