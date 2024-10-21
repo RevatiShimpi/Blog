@@ -1,0 +1,162 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Blog 1",
+      "content": "Hello1, hwo are you",
+      "author": "Reva1",
+      "Date": "10-10-2024"
+    },
+    {
+      "id": 2,
+      "title": "Blog 2",
+      "content": "Hello1, hwo are you2",
+      "author": "Reva12",
+      "Date": "12-10-2024"
+    },
+    {
+      "id": "c5bb",
+      "title": "",
+      "body": "",
+      "author": ""
+    },
+    {
+      "id": "887c",
+      "title": "",
+      "body": "",
+      "author": ""
+    },
+    {
+      "id": "0a48",
+      "title": "H",
+      "body": "",
+      "author": ""
+    },
+    {
+      "id": "5449",
+      "title": "H",
+      "body": "",
+      "author": ""
+    },
+    {
+      "id": "fa6a",
+      "title": "Hi",
+      "body": "",
+      "author": ""
+    },
+    {
+      "id": "897f",
+      "title": "Hi",
+      "body": "",
+      "author": ""
+    },
+    {
+      "id": "aefd",
+      "title": "Hi",
+      "body": "j",
+      "author": ""
+    },
+    {
+      "id": "1488",
+      "title": "Hi",
+      "body": "j",
+      "author": ""
+    },
+    {
+      "id": "1434",
+      "title": "Hi",
+      "body": "je",
+      "author": ""
+    },
+    {
+      "id": "dc58",
+      "title": "Hi",
+      "body": "je",
+      "author": ""
+    },
+    {
+      "id": "8930",
+      "title": "Hi",
+      "body": "jen",
+      "author": ""
+    },
+    {
+      "id": "1f68",
+      "title": "Hi",
+      "body": "jen",
+      "author": ""
+    },
+    {
+      "id": "5992",
+      "title": "Hi",
+      "body": "jenf",
+      "author": ""
+    },
+    {
+      "id": "0233",
+      "title": "Hi",
+      "body": "jenf",
+      "author": ""
+    },
+    {
+      "id": "73d5",
+      "title": "Hi",
+      "body": "jenfa",
+      "author": ""
+    },
+    {
+      "id": "6473",
+      "title": "Hi",
+      "body": "jenfa",
+      "author": ""
+    },
+    {
+      "id": "760d",
+      "title": "Hi",
+      "body": "jenfak",
+      "author": ""
+    },
+    {
+      "id": "24b0",
+      "title": "Hi",
+      "body": "jenfak",
+      "author": ""
+    },
+    {
+      "id": "8601",
+      "title": "Hi",
+      "body": "jenfake",
+      "author": ""
+    },
+    {
+      "id": "e830",
+      "title": "Hi",
+      "body": "jenfake",
+      "author": ""
+    },
+    {
+      "id": "d416",
+      "title": "Hi",
+      "body": "jenfakef",
+      "author": ""
+    },
+    {
+      "id": "a72e",
+      "title": "Hi",
+      "body": "jenfakef",
+      "author": ""
+    },
+    {
+      "id": "30d5",
+      "title": "",
+      "body": "",
+      "author": ""
+    },
+    {
+      "id": "7c12",
+      "title": "",
+      "body": "",
+      "author": ""
+    }
+  ]
+}
